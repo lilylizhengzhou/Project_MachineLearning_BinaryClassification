@@ -1,0 +1,501 @@
+"method","err"
+"rf",0.418
+"rf",0.438
+"rf",0.456
+"rf",0.428
+"rf",0.456
+"rf",0.444
+"rf",0.448
+"rf",0.458
+"rf",0.462
+"rf",0.432
+"rf",0.432
+"rf",0.442
+"rf",0.458
+"rf",0.446
+"rf",0.43
+"rf",0.442
+"rf",0.48
+"rf",0.438
+"rf",0.454
+"rf",0.464
+"rf",0.446
+"rf",0.46
+"rf",0.46
+"rf",0.474
+"rf",0.456
+"rf",0.494
+"rf",0.448
+"rf",0.456
+"rf",0.436
+"rf",0.422
+"rf",0.43
+"rf",0.438
+"rf",0.482
+"rf",0.446
+"rf",0.442
+"rf",0.446
+"rf",0.454
+"rf",0.426
+"rf",0.452
+"rf",0.46
+"rf",0.46
+"rf",0.448
+"rf",0.43
+"rf",0.484
+"rf",0.428
+"rf",0.462
+"rf",0.466
+"rf",0.472
+"rf",0.464
+"rf",0.41
+"rf",0.456
+"rf",0.438
+"rf",0.44
+"rf",0.442
+"rf",0.422
+"rf",0.426
+"rf",0.432
+"rf",0.476
+"rf",0.448
+"rf",0.446
+"rf",0.446
+"rf",0.458
+"rf",0.412
+"rf",0.438
+"rf",0.442
+"rf",0.454
+"rf",0.424
+"rf",0.43
+"rf",0.434
+"rf",0.432
+"rf",0.482
+"rf",0.454
+"rf",0.452
+"rf",0.452
+"rf",0.442
+"rf",0.45
+"rf",0.446
+"rf",0.456
+"rf",0.474
+"rf",0.456
+"rf",0.444
+"rf",0.424
+"rf",0.498
+"rf",0.42
+"rf",0.472
+"rf",0.438
+"rf",0.424
+"rf",0.474
+"rf",0.448
+"rf",0.462
+"rf",0.42
+"rf",0.414
+"rf",0.474
+"rf",0.452
+"rf",0.428
+"rf",0.472
+"rf",0.446
+"rf",0.414
+"rf",0.462
+"rf",0.438
+"radial svm",0.424
+"radial svm",0.438
+"radial svm",0.424
+"radial svm",0.436
+"radial svm",0.464
+"radial svm",0.446
+"radial svm",0.432
+"radial svm",0.456
+"radial svm",0.432
+"radial svm",0.428
+"radial svm",0.432
+"radial svm",0.422
+"radial svm",0.422
+"radial svm",0.41
+"radial svm",0.43
+"radial svm",0.466
+"radial svm",0.44
+"radial svm",0.518
+"radial svm",0.486
+"radial svm",0.43
+"radial svm",0.422
+"radial svm",0.44
+"radial svm",0.486
+"radial svm",0.422
+"radial svm",0.446
+"radial svm",0.446
+"radial svm",0.432
+"radial svm",0.44
+"radial svm",0.424
+"radial svm",0.404
+"radial svm",0.394
+"radial svm",0.416
+"radial svm",0.43
+"radial svm",0.458
+"radial svm",0.412
+"radial svm",0.46
+"radial svm",0.458
+"radial svm",0.43
+"radial svm",0.47
+"radial svm",0.402
+"radial svm",0.436
+"radial svm",0.518
+"radial svm",0.422
+"radial svm",0.434
+"radial svm",0.394
+"radial svm",0.442
+"radial svm",0.454
+"radial svm",0.45
+"radial svm",0.442
+"radial svm",0.424
+"radial svm",0.45
+"radial svm",0.456
+"radial svm",0.432
+"radial svm",0.444
+"radial svm",0.45
+"radial svm",0.486
+"radial svm",0.436
+"radial svm",0.466
+"radial svm",0.454
+"radial svm",0.408
+"radial svm",0.464
+"radial svm",0.428
+"radial svm",0.434
+"radial svm",0.494
+"radial svm",0.45
+"radial svm",0.426
+"radial svm",0.42
+"radial svm",0.428
+"radial svm",0.432
+"radial svm",0.422
+"radial svm",0.432
+"radial svm",0.424
+"radial svm",0.444
+"radial svm",0.422
+"radial svm",0.42
+"radial svm",0.414
+"radial svm",0.468
+"radial svm",0.418
+"radial svm",0.442
+"radial svm",0.426
+"radial svm",0.484
+"radial svm",0.41
+"radial svm",0.492
+"radial svm",0.438
+"radial svm",0.428
+"radial svm",0.422
+"radial svm",0.422
+"radial svm",0.456
+"radial svm",0.422
+"radial svm",0.444
+"radial svm",0.41
+"radial svm",0.45
+"radial svm",0.446
+"radial svm",0.436
+"radial svm",0.426
+"radial svm",0.462
+"radial svm",0.43
+"radial svm",0.428
+"radial svm",0.438
+"radial svm",0.46
+"logistic",0.448
+"logistic",0.47
+"logistic",0.47
+"logistic",0.502
+"logistic",0.486
+"logistic",0.482
+"logistic",0.488
+"logistic",0.522
+"logistic",0.484
+"logistic",0.43
+"logistic",0.486
+"logistic",0.464
+"logistic",0.472
+"logistic",0.438
+"logistic",0.472
+"logistic",0.462
+"logistic",0.498
+"logistic",0.5
+"logistic",0.48
+"logistic",0.504
+"logistic",0.446
+"logistic",0.484
+"logistic",0.48
+"logistic",0.45
+"logistic",0.5
+"logistic",0.488
+"logistic",0.47
+"logistic",0.498
+"logistic",0.476
+"logistic",0.464
+"logistic",0.462
+"logistic",0.464
+"logistic",0.476
+"logistic",0.46
+"logistic",0.456
+"logistic",0.464
+"logistic",0.462
+"logistic",0.476
+"logistic",0.454
+"logistic",0.484
+"logistic",0.466
+"logistic",0.476
+"logistic",0.48
+"logistic",0.47
+"logistic",0.466
+"logistic",0.474
+"logistic",0.468
+"logistic",0.522
+"logistic",0.458
+"logistic",0.47
+"logistic",0.456
+"logistic",0.484
+"logistic",0.482
+"logistic",0.49
+"logistic",0.498
+"logistic",0.43
+"logistic",0.502
+"logistic",0.472
+"logistic",0.468
+"logistic",0.464
+"logistic",0.49
+"logistic",0.476
+"logistic",0.452
+"logistic",0.462
+"logistic",0.474
+"logistic",0.474
+"logistic",0.504
+"logistic",0.48
+"logistic",0.456
+"logistic",0.46
+"logistic",0.47
+"logistic",0.492
+"logistic",0.518
+"logistic",0.434
+"logistic",0.496
+"logistic",0.452
+"logistic",0.504
+"logistic",0.494
+"logistic",0.474
+"logistic",0.468
+"logistic",0.482
+"logistic",0.464
+"logistic",0.47
+"logistic",0.49
+"logistic",0.476
+"logistic",0.47
+"logistic",0.468
+"logistic",0.476
+"logistic",0.5
+"logistic",0.5
+"logistic",0.444
+"logistic",0.472
+"logistic",0.51
+"logistic",0.438
+"logistic",0.462
+"logistic",0.506
+"logistic",0.474
+"logistic",0.456
+"logistic",0.462
+"logistic",0.46
+"logistic lasso",0.448
+"logistic lasso",0.474
+"logistic lasso",0.468
+"logistic lasso",0.494
+"logistic lasso",0.476
+"logistic lasso",0.462
+"logistic lasso",0.488
+"logistic lasso",0.504
+"logistic lasso",0.516
+"logistic lasso",0.426
+"logistic lasso",0.486
+"logistic lasso",0.468
+"logistic lasso",0.496
+"logistic lasso",0.418
+"logistic lasso",0.46
+"logistic lasso",0.46
+"logistic lasso",0.49
+"logistic lasso",0.492
+"logistic lasso",0.482
+"logistic lasso",0.51
+"logistic lasso",0.444
+"logistic lasso",0.486
+"logistic lasso",0.478
+"logistic lasso",0.49
+"logistic lasso",0.472
+"logistic lasso",0.5
+"logistic lasso",0.462
+"logistic lasso",0.498
+"logistic lasso",0.478
+"logistic lasso",0.468
+"logistic lasso",0.46
+"logistic lasso",0.488
+"logistic lasso",0.478
+"logistic lasso",0.478
+"logistic lasso",0.452
+"logistic lasso",0.484
+"logistic lasso",0.472
+"logistic lasso",0.462
+"logistic lasso",0.456
+"logistic lasso",0.488
+"logistic lasso",0.484
+"logistic lasso",0.472
+"logistic lasso",0.482
+"logistic lasso",0.46
+"logistic lasso",0.488
+"logistic lasso",0.474
+"logistic lasso",0.506
+"logistic lasso",0.48
+"logistic lasso",0.462
+"logistic lasso",0.49
+"logistic lasso",0.47
+"logistic lasso",0.482
+"logistic lasso",0.5
+"logistic lasso",0.464
+"logistic lasso",0.466
+"logistic lasso",0.466
+"logistic lasso",0.5
+"logistic lasso",0.472
+"logistic lasso",0.466
+"logistic lasso",0.476
+"logistic lasso",0.46
+"logistic lasso",0.478
+"logistic lasso",0.472
+"logistic lasso",0.476
+"logistic lasso",0.488
+"logistic lasso",0.474
+"logistic lasso",0.494
+"logistic lasso",0.476
+"logistic lasso",0.502
+"logistic lasso",0.458
+"logistic lasso",0.472
+"logistic lasso",0.512
+"logistic lasso",0.516
+"logistic lasso",0.436
+"logistic lasso",0.498
+"logistic lasso",0.452
+"logistic lasso",0.502
+"logistic lasso",0.494
+"logistic lasso",0.484
+"logistic lasso",0.466
+"logistic lasso",0.47
+"logistic lasso",0.452
+"logistic lasso",0.55
+"logistic lasso",0.45
+"logistic lasso",0.502
+"logistic lasso",0.482
+"logistic lasso",0.466
+"logistic lasso",0.482
+"logistic lasso",0.47
+"logistic lasso",0.498
+"logistic lasso",0.452
+"logistic lasso",0.47
+"logistic lasso",0.504
+"logistic lasso",0.448
+"logistic lasso",0.48
+"logistic lasso",0.508
+"logistic lasso",0.494
+"logistic lasso",0.456
+"logistic lasso",0.46
+"logistic lasso",0.454
+"logistic ridge",0.442
+"logistic ridge",0.474
+"logistic ridge",0.474
+"logistic ridge",0.49
+"logistic ridge",0.514
+"logistic ridge",0.488
+"logistic ridge",0.482
+"logistic ridge",0.51
+"logistic ridge",0.5
+"logistic ridge",0.432
+"logistic ridge",0.486
+"logistic ridge",0.458
+"logistic ridge",0.46
+"logistic ridge",0.428
+"logistic ridge",0.48
+"logistic ridge",0.476
+"logistic ridge",0.512
+"logistic ridge",0.498
+"logistic ridge",0.476
+"logistic ridge",0.516
+"logistic ridge",0.452
+"logistic ridge",0.492
+"logistic ridge",0.494
+"logistic ridge",0.494
+"logistic ridge",0.49
+"logistic ridge",0.5
+"logistic ridge",0.452
+"logistic ridge",0.49
+"logistic ridge",0.48
+"logistic ridge",0.458
+"logistic ridge",0.462
+"logistic ridge",0.486
+"logistic ridge",0.474
+"logistic ridge",0.468
+"logistic ridge",0.48
+"logistic ridge",0.51
+"logistic ridge",0.462
+"logistic ridge",0.47
+"logistic ridge",0.462
+"logistic ridge",0.484
+"logistic ridge",0.5
+"logistic ridge",0.494
+"logistic ridge",0.494
+"logistic ridge",0.466
+"logistic ridge",0.47
+"logistic ridge",0.504
+"logistic ridge",0.5
+"logistic ridge",0.508
+"logistic ridge",0.484
+"logistic ridge",0.478
+"logistic ridge",0.496
+"logistic ridge",0.472
+"logistic ridge",0.486
+"logistic ridge",0.5
+"logistic ridge",0.478
+"logistic ridge",0.474
+"logistic ridge",0.5
+"logistic ridge",0.468
+"logistic ridge",0.5
+"logistic ridge",0.478
+"logistic ridge",0.492
+"logistic ridge",0.492
+"logistic ridge",0.446
+"logistic ridge",0.454
+"logistic ridge",0.466
+"logistic ridge",0.468
+"logistic ridge",0.476
+"logistic ridge",0.48
+"logistic ridge",0.506
+"logistic ridge",0.464
+"logistic ridge",0.472
+"logistic ridge",0.524
+"logistic ridge",0.496
+"logistic ridge",0.45
+"logistic ridge",0.496
+"logistic ridge",0.45
+"logistic ridge",0.514
+"logistic ridge",0.506
+"logistic ridge",0.51
+"logistic ridge",0.458
+"logistic ridge",0.482
+"logistic ridge",0.46
+"logistic ridge",0.486
+"logistic ridge",0.486
+"logistic ridge",0.472
+"logistic ridge",0.47
+"logistic ridge",0.478
+"logistic ridge",0.472
+"logistic ridge",0.504
+"logistic ridge",0.496
+"logistic ridge",0.456
+"logistic ridge",0.474
+"logistic ridge",0.494
+"logistic ridge",0.44
+"logistic ridge",0.474
+"logistic ridge",0.502
+"logistic ridge",0.492
+"logistic ridge",0.474
+"logistic ridge",0.47
+"logistic ridge",0.458

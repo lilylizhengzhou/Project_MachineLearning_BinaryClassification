@@ -1,0 +1,501 @@
+"method","err"
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"rf",0
+"radial svm",0.433137254901961
+"radial svm",0.398039215686274
+"radial svm",0.394230769230769
+"radial svm",0.379372549019608
+"radial svm",0.428156862745098
+"radial svm",0.351269956458636
+"radial svm",0.379208998548621
+"radial svm",0.356349782293179
+"radial svm",0.415019607843137
+"radial svm",0.406297134238311
+"radial svm",0.406509803921569
+"radial svm",0.402564102564103
+"radial svm",0.356603773584906
+"radial svm",0.385195936139332
+"radial svm",0.384588235294118
+"radial svm",0.341614255765199
+"radial svm",0.404390420899855
+"radial svm",0.393468795355588
+"radial svm",0.379825834542816
+"radial svm",0.418156862745098
+"radial svm",0.375507982583454
+"radial svm",0.382862745098039
+"radial svm",0.375960866526904
+"radial svm",0.414705882352941
+"radial svm",0.396980392156863
+"radial svm",0.375943396226415
+"radial svm",0.398642533936652
+"radial svm",0.346261355695318
+"radial svm",0.371757164404223
+"radial svm",0.386274509803922
+"radial svm",0.418966817496229
+"radial svm",0.42579185520362
+"radial svm",0.40052790346908
+"radial svm",0.288345864661654
+"radial svm",0.416
+"radial svm",0.407843137254902
+"radial svm",0.337037037037037
+"radial svm",0.402262443438914
+"radial svm",0.381966618287373
+"radial svm",0.426
+"radial svm",0.40105580693816
+"radial svm",0.298214285714286
+"radial svm",0.430627450980392
+"radial svm",0.38895173453997
+"radial svm",0.450980392156863
+"radial svm",0.325943396226415
+"radial svm",0.335377358490566
+"radial svm",0.375507982583454
+"radial svm",0.359879336349925
+"radial svm",0.441960784313725
+"radial svm",0.4
+"radial svm",0.343396226415094
+"radial svm",0.357692307692308
+"radial svm",0.399058823529412
+"radial svm",0.369230769230769
+"radial svm",0.346296296296296
+"radial svm",0.35290346907994
+"radial svm",0.45043137254902
+"radial svm",0.413725490196078
+"radial svm",0.384615384615385
+"radial svm",0.39356862745098
+"radial svm",0.417058823529412
+"radial svm",0.384506531204644
+"radial svm",0.338888888888889
+"radial svm",0.480470588235294
+"radial svm",0.357162823200559
+"radial svm",0.429638009049774
+"radial svm",0.458666666666667
+"radial svm",0.392960812772134
+"radial svm",0.413490196078431
+"radial svm",0.352236198462614
+"radial svm",0.404864253393665
+"radial svm",0.403607843137255
+"radial svm",0.351923076923077
+"radial svm",0.416666666666667
+"radial svm",0.391704374057315
+"radial svm",0.367722473604827
+"radial svm",0.446039215686275
+"radial svm",0.407692307692308
+"radial svm",0.378084179970972
+"radial svm",0.435294117647059
+"radial svm",0.375529411764706
+"radial svm",0.384470246734398
+"radial svm",0.426627450980392
+"radial svm",0.386465892597968
+"radial svm",0.430769230769231
+"radial svm",0.397247360482655
+"radial svm",0.367416545718433
+"radial svm",0.423529411764706
+"radial svm",0.419137254901961
+"radial svm",0.384615384615385
+"radial svm",0.385429769392034
+"radial svm",0.364366515837104
+"radial svm",0.400435413642961
+"radial svm",0.438705882352941
+"radial svm",0.332693602693603
+"radial svm",0.431176470588235
+"radial svm",0.439098039215686
+"radial svm",0.397647058823529
+"radial svm",0.409615384615385
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic",0
+"logistic lasso",0.464566929133858
+"logistic lasso",0.482352941176471
+"logistic lasso",0.440384615384615
+"logistic lasso",0.452569169960474
+"logistic lasso",0.50398406374502
+"logistic lasso",0.450381679389313
+"logistic lasso",0.446360153256705
+"logistic lasso",0.481060606060606
+"logistic lasso",0.442460317460317
+"logistic lasso",0.494163424124514
+"logistic lasso",0.460159362549801
+"logistic lasso",0.443579766536965
+"logistic lasso",0.424528301886792
+"logistic lasso",0.459770114942529
+"logistic lasso",0.48406374501992
+"logistic lasso",0.438432835820896
+"logistic lasso",0.469348659003831
+"logistic lasso",0.423954372623574
+"logistic lasso",0.442965779467681
+"logistic lasso",0.448207171314741
+"logistic lasso",0.436781609195402
+"logistic lasso",0.450396825396825
+"logistic lasso",0.428838951310861
+"logistic lasso",0.482213438735178
+"logistic lasso",0.44047619047619
+"logistic lasso",0.456106870229008
+"logistic lasso",0.511673151750973
+"logistic lasso",0.421348314606742
+"logistic lasso",0.490272373540856
+"logistic lasso",0.411764705882353
+"logistic lasso",0.484496124031008
+"logistic lasso",0.462890625
+"logistic lasso",0.46875
+"logistic lasso",0.419928825622776
+"logistic lasso",0.514
+"logistic lasso",0.449019607843137
+"logistic lasso",0.435185185185185
+"logistic lasso",0.480544747081712
+"logistic lasso",0.431297709923664
+"logistic lasso",0.474
+"logistic lasso",0.445736434108527
+"logistic lasso",0.467857142857143
+"logistic lasso",0.470355731225296
+"logistic lasso",0.431906614785992
+"logistic lasso",0.437254901960784
+"logistic lasso",0.458333333333333
+"logistic lasso",0.371212121212121
+"logistic lasso",0.423371647509579
+"logistic lasso",0.445525291828794
+"logistic lasso",0.472111553784861
+"logistic lasso",0.423529411764706
+"logistic lasso",0.486792452830189
+"logistic lasso",0.461538461538462
+"logistic lasso",0.466403162055336
+"logistic lasso",0.425
+"logistic lasso",0.47962962962963
+"logistic lasso",0.453488372093023
+"logistic lasso",0.452569169960474
+"logistic lasso",0.43921568627451
+"logistic lasso",0.451923076923077
+"logistic lasso",0.431102362204724
+"logistic lasso",0.448616600790514
+"logistic lasso",0.464015151515151
+"logistic lasso",0.464814814814815
+"logistic lasso",0.492063492063492
+"logistic lasso",0.43796992481203
+"logistic lasso",0.533203125
+"logistic lasso",0.476284584980237
+"logistic lasso",0.450191570881226
+"logistic lasso",0.458661417322835
+"logistic lasso",0.432584269662921
+"logistic lasso",0.424418604651163
+"logistic lasso",0.405511811023622
+"logistic lasso",0.471153846153846
+"logistic lasso",0.470238095238095
+"logistic lasso",0.488416988416988
+"logistic lasso",0.447470817120623
+"logistic lasso",0.505952380952381
+"logistic lasso",0.438461538461538
+"logistic lasso",0.437022900763359
+"logistic lasso",0.486274509803922
+"logistic lasso",0.430830039525692
+"logistic lasso",0.492424242424242
+"logistic lasso",0.454365079365079
+"logistic lasso",0.450570342205323
+"logistic lasso",0.465384615384615
+"logistic lasso",0.455426356589147
+"logistic lasso",0.473484848484849
+"logistic lasso",0.470588235294118
+"logistic lasso",0.456521739130435
+"logistic lasso",0.448076923076923
+"logistic lasso",0.481203007518797
+"logistic lasso",0.455426356589147
+"logistic lasso",0.507662835249042
+"logistic lasso",0.462301587301587
+"logistic lasso",0.443014705882353
+"logistic lasso",0.440711462450593
+"logistic lasso",0.437007874015748
+"logistic lasso",0.468503937007874
+"logistic lasso",0.415384615384615
+"logistic ridge",0.464566929133858
+"logistic ridge",0.484313725490196
+"logistic ridge",0.446153846153846
+"logistic ridge",0.452569169960474
+"logistic ridge",0.47808764940239
+"logistic ridge",0.475190839694656
+"logistic ridge",0.442528735632184
+"logistic ridge",0.481060606060606
+"logistic ridge",0.472222222222222
+"logistic ridge",0.511673151750973
+"logistic ridge",0.474103585657371
+"logistic ridge",0.474708171206226
+"logistic ridge",0.460377358490566
+"logistic ridge",0.471264367816092
+"logistic ridge",0.450199203187251
+"logistic ridge",0.479477611940299
+"logistic ridge",0.459770114942529
+"logistic ridge",0.433460076045627
+"logistic ridge",0.482889733840304
+"logistic ridge",0.442231075697211
+"logistic ridge",0.457854406130268
+"logistic ridge",0.458333333333333
+"logistic ridge",0.417602996254682
+"logistic ridge",0.448616600790514
+"logistic ridge",0.462301587301587
+"logistic ridge",0.461832061068702
+"logistic ridge",0.51556420233463
+"logistic ridge",0.432584269662921
+"logistic ridge",0.480544747081712
+"logistic ridge",0.396078431372549
+"logistic ridge",0.486434108527132
+"logistic ridge",0.4921875
+"logistic ridge",0.48046875
+"logistic ridge",0.430604982206406
+"logistic ridge",0.508
+"logistic ridge",0.433333333333333
+"logistic ridge",0.474074074074074
+"logistic ridge",0.459143968871595
+"logistic ridge",0.42175572519084
+"logistic ridge",0.482
+"logistic ridge",0.463178294573643
+"logistic ridge",0.446428571428571
+"logistic ridge",0.462450592885375
+"logistic ridge",0.424124513618677
+"logistic ridge",0.476470588235294
+"logistic ridge",0.464015151515151
+"logistic ridge",0.375
+"logistic ridge",0.42911877394636
+"logistic ridge",0.439688715953307
+"logistic ridge",0.448207171314741
+"logistic ridge",0.447058823529412
+"logistic ridge",0.488679245283019
+"logistic ridge",0.461538461538462
+"logistic ridge",0.488142292490119
+"logistic ridge",0.425
+"logistic ridge",0.472222222222222
+"logistic ridge",0.434108527131783
+"logistic ridge",0.494071146245059
+"logistic ridge",0.490196078431373
+"logistic ridge",0.436538461538462
+"logistic ridge",0.442913385826772
+"logistic ridge",0.474308300395257
+"logistic ridge",0.452651515151515
+"logistic ridge",0.47037037037037
+"logistic ridge",0.48015873015873
+"logistic ridge",0.419172932330827
+"logistic ridge",0.5234375
+"logistic ridge",0.50395256916996
+"logistic ridge",0.450191570881226
+"logistic ridge",0.448818897637795
+"logistic ridge",0.419475655430712
+"logistic ridge",0.447674418604651
+"logistic ridge",0.446850393700787
+"logistic ridge",0.488461538461538
+"logistic ridge",0.476190476190476
+"logistic ridge",0.488416988416988
+"logistic ridge",0.464980544747082
+"logistic ridge",0.498015873015873
+"logistic ridge",0.45
+"logistic ridge",0.42175572519084
+"logistic ridge",0.535294117647059
+"logistic ridge",0.448616600790514
+"logistic ridge",0.471590909090909
+"logistic ridge",0.46031746031746
+"logistic ridge",0.454372623574144
+"logistic ridge",0.463461538461538
+"logistic ridge",0.48062015503876
+"logistic ridge",0.477272727272727
+"logistic ridge",0.47843137254902
+"logistic ridge",0.450592885375494
+"logistic ridge",0.471153846153846
+"logistic ridge",0.490601503759398
+"logistic ridge",0.447674418604651
+"logistic ridge",0.478927203065134
+"logistic ridge",0.456349206349206
+"logistic ridge",0.455882352941176
+"logistic ridge",0.468379446640316
+"logistic ridge",0.470472440944882
+"logistic ridge",0.476377952755905
+"logistic ridge",0.446153846153846

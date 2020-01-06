@@ -1,0 +1,900 @@
+s=1: 
+              0.5n | time: 31.930(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.30, lasso=0.33, ridge=0.31
+              Test:   rf=0.42, svm=0.41, logistic=0.44, lasso=0.46, ridge=0.45
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.45, ridge=0.49
+              0.9n | time: 84.690(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.34, lasso=0.34, ridge=0.33
+              Test:   rf=0.46, svm=0.38, logistic=0.52, lasso=0.51, ridge=0.46
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.45, ridge=0.45
+s=2: 
+              0.5n | time: 30.940(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.29, lasso=0.34, ridge=0.33
+              Test:   rf=0.46, svm=0.44, logistic=0.49, lasso=0.50, ridge=0.50
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.43, ridge=0.42
+              0.9n | time: 99.060(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.37, lasso=0.49, ridge=0.36
+              Test:   rf=0.33, svm=0.38, logistic=0.41, lasso=0.47, ridge=0.41
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.46, ridge=0.46
+s=3: 
+              0.5n | time: 30.500(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.29, lasso=0.32, ridge=0.31
+              Test:   rf=0.44, svm=0.44, logistic=0.49, lasso=0.49, ridge=0.50
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.46, ridge=0.46
+              0.9n | time: 84.810(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.37, lasso=0.37, ridge=0.36
+              Test:   rf=0.34, svm=0.37, logistic=0.51, lasso=0.50, ridge=0.48
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.49, ridge=0.47
+s=4: 
+              0.5n | time: 31.740(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.30, lasso=0.35, ridge=0.35
+              Test:   rf=0.46, svm=0.44, logistic=0.52, lasso=0.52, ridge=0.54
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.47, ridge=0.47
+              0.9n | time: 85.530(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.37, lasso=0.41, ridge=0.38
+              Test:   rf=0.41, svm=0.41, logistic=0.47, lasso=0.47, ridge=0.51
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.44, ridge=0.47
+s=5: 
+              0.5n | time: 31.200(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.28, lasso=0.27, ridge=0.27
+              Test:   rf=0.47, svm=0.47, logistic=0.49, lasso=0.52, ridge=0.51
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.44, ridge=0.43
+              0.9n | time: 88.580(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.35, lasso=0.35, ridge=0.36
+              Test:   rf=0.43, svm=0.38, logistic=0.53, lasso=0.53, ridge=0.54
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.48, ridge=0.47
+s=6: 
+              0.5n | time: 33.440(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.31, lasso=0.35, ridge=0.33
+              Test:   rf=0.44, svm=0.43, logistic=0.47, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.42, ridge=0.48
+              0.9n | time: 87.560(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.37, lasso=0.35, ridge=0.37
+              Test:   rf=0.43, svm=0.47, logistic=0.39, lasso=0.42, ridge=0.47
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.46, ridge=0.47
+s=7: 
+              0.5n | time: 31.190(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.39, ridge=0.38
+              Test:   rf=0.45, svm=0.42, logistic=0.49, lasso=0.48, ridge=0.50
+              Min CV: rf=0.00, svm=0.48, logistic=0.00, lasso=0.48, ridge=0.53
+              0.9n | time: 84.330(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.38, lasso=0.42, ridge=0.37
+              Test:   rf=0.37, svm=0.40, logistic=0.44, lasso=0.49, ridge=0.46
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.48, ridge=0.48
+s=8: 
+              0.5n | time: 30.820(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.34, lasso=0.48, ridge=0.38
+              Test:   rf=0.45, svm=0.43, logistic=0.47, lasso=0.55, ridge=0.51
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.48, ridge=0.47
+              0.9n | time: 83.830(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.40, ridge=0.34
+              Test:   rf=0.44, svm=0.40, logistic=0.47, lasso=0.53, ridge=0.47
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.44, ridge=0.47
+s=9: 
+              0.5n | time: 31.770(sec) |
+              Train:  rf=0.00, svm=0.21, logistic=0.32, lasso=0.33, ridge=0.49
+              Test:   rf=0.47, svm=0.46, logistic=0.46, lasso=0.47, ridge=0.53
+              Min CV: rf=0.00, svm=0.49, logistic=0.00, lasso=0.49, ridge=0.52
+              0.9n | time: 86.200(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.38, lasso=0.40, ridge=0.36
+              Test:   rf=0.38, svm=0.35, logistic=0.46, lasso=0.42, ridge=0.45
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.46
+s=10: 
+              0.5n | time: 34.350(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.38, ridge=0.33
+              Test:   rf=0.42, svm=0.40, logistic=0.47, lasso=0.48, ridge=0.46
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.46, ridge=0.49
+              0.9n | time: 83.950(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.35, ridge=0.34
+              Test:   rf=0.45, svm=0.44, logistic=0.48, lasso=0.47, ridge=0.47
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.47
+s=11: 
+              0.5n | time: 31.060(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.28, lasso=0.28, ridge=0.28
+              Test:   rf=0.44, svm=0.42, logistic=0.49, lasso=0.50, ridge=0.50
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.43, ridge=0.43
+              0.9n | time: 85.360(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.35, lasso=0.35, ridge=0.35
+              Test:   rf=0.46, svm=0.45, logistic=0.49, lasso=0.48, ridge=0.46
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.45, ridge=0.44
+s=12: 
+              0.5n | time: 30.640(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.31, lasso=0.41, ridge=0.30
+              Test:   rf=0.45, svm=0.42, logistic=0.49, lasso=0.51, ridge=0.47
+              Min CV: rf=0.00, svm=0.44, logistic=0.00, lasso=0.47, ridge=0.44
+              0.9n | time: 85.080(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.39, ridge=0.37
+              Test:   rf=0.44, svm=0.37, logistic=0.58, lasso=0.58, ridge=0.55
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.44, ridge=0.46
+s=13: 
+              0.5n | time: 32.010(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.34, lasso=0.34, ridge=0.33
+              Test:   rf=0.48, svm=0.44, logistic=0.48, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.44, ridge=0.46
+              0.9n | time: 86.490(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.38, lasso=0.37, ridge=0.36
+              Test:   rf=0.43, svm=0.43, logistic=0.46, lasso=0.45, ridge=0.44
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.48, ridge=0.48
+s=14: 
+              0.5n | time: 31.830(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.45, ridge=0.35
+              Test:   rf=0.47, svm=0.44, logistic=0.47, lasso=0.50, ridge=0.49
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.47, ridge=0.44
+              0.9n | time: 101.730(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.48, ridge=0.35
+              Test:   rf=0.44, svm=0.49, logistic=0.48, lasso=0.55, ridge=0.54
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.45, ridge=0.47
+s=15: 
+              0.5n | time: 33.200(sec) |
+              Train:  rf=0.00, svm=0.19, logistic=0.30, lasso=0.35, ridge=0.35
+              Test:   rf=0.48, svm=0.49, logistic=0.47, lasso=0.50, ridge=0.52
+              Min CV: rf=0.00, svm=0.44, logistic=0.00, lasso=0.44, ridge=0.45
+              0.9n | time: 98.320(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.36, lasso=0.49, ridge=0.34
+              Test:   rf=0.43, svm=0.40, logistic=0.44, lasso=0.48, ridge=0.43
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.46, ridge=0.46
+s=16: 
+              0.5n | time: 32.000(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.30, lasso=0.30, ridge=0.31
+              Test:   rf=0.42, svm=0.40, logistic=0.46, lasso=0.47, ridge=0.46
+              Min CV: rf=0.00, svm=0.45, logistic=0.00, lasso=0.46, ridge=0.48
+              0.9n | time: 85.980(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.36, ridge=0.35
+              Test:   rf=0.42, svm=0.37, logistic=0.52, lasso=0.55, ridge=0.52
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.45, ridge=0.46
+s=17: 
+              0.5n | time: 31.720(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.31, ridge=0.31
+              Test:   rf=0.45, svm=0.42, logistic=0.48, lasso=0.49, ridge=0.48
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.46, ridge=0.47
+              0.9n | time: 84.480(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.37, ridge=0.36
+              Test:   rf=0.39, svm=0.36, logistic=0.48, lasso=0.45, ridge=0.50
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.48, ridge=0.46
+s=18: 
+              0.5n | time: 30.630(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.30, lasso=0.42, ridge=0.46
+              Test:   rf=0.45, svm=0.41, logistic=0.46, lasso=0.49, ridge=0.51
+              Min CV: rf=0.00, svm=0.45, logistic=0.00, lasso=0.44, ridge=0.46
+              0.9n | time: 85.520(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.45, ridge=0.49
+              Test:   rf=0.42, svm=0.41, logistic=0.44, lasso=0.44, ridge=0.51
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.47, ridge=0.48
+s=19: 
+              0.5n | time: 31.030(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.28, lasso=0.27, ridge=0.30
+              Test:   rf=0.47, svm=0.47, logistic=0.49, lasso=0.50, ridge=0.51
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.45, ridge=0.45
+              0.9n | time: 84.870(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.35, lasso=0.40, ridge=0.36
+              Test:   rf=0.33, svm=0.37, logistic=0.46, lasso=0.47, ridge=0.47
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.48, ridge=0.46
+s=20: 
+              0.5n | time: 30.920(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.28, lasso=0.41, ridge=0.33
+              Test:   rf=0.47, svm=0.44, logistic=0.51, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.44, ridge=0.45
+              0.9n | time: 97.110(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.50, ridge=0.37
+              Test:   rf=0.52, svm=0.43, logistic=0.49, lasso=0.42, ridge=0.46
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.47
+s=21: 
+              0.5n | time: 31.280(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.29, lasso=0.31, ridge=0.31
+              Test:   rf=0.44, svm=0.42, logistic=0.48, lasso=0.51, ridge=0.49
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.48, ridge=0.48
+              0.9n | time: 84.600(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.40, ridge=0.35
+              Test:   rf=0.33, svm=0.33, logistic=0.47, lasso=0.48, ridge=0.48
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.45, ridge=0.47
+s=22: 
+              0.5n | time: 30.860(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.33, lasso=0.48, ridge=0.48
+              Test:   rf=0.45, svm=0.45, logistic=0.48, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.49, ridge=0.48
+              0.9n | time: 83.200(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.41, ridge=0.35
+              Test:   rf=0.38, svm=0.41, logistic=0.44, lasso=0.48, ridge=0.46
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.45, ridge=0.48
+s=23: 
+              0.5n | time: 31.230(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.29, lasso=0.33, ridge=0.30
+              Test:   rf=0.47, svm=0.48, logistic=0.47, lasso=0.51, ridge=0.50
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.42, ridge=0.44
+              0.9n | time: 84.830(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.35, lasso=0.41, ridge=0.36
+              Test:   rf=0.41, svm=0.36, logistic=0.46, lasso=0.45, ridge=0.49
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.46, ridge=0.46
+s=24: 
+              0.5n | time: 31.110(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.30, lasso=0.33, ridge=0.35
+              Test:   rf=0.44, svm=0.42, logistic=0.47, lasso=0.48, ridge=0.50
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.45
+              0.9n | time: 85.210(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.35, lasso=0.39, ridge=0.35
+              Test:   rf=0.44, svm=0.41, logistic=0.42, lasso=0.50, ridge=0.49
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.44, ridge=0.47
+s=25: 
+              0.5n | time: 30.920(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.30, lasso=0.37, ridge=0.36
+              Test:   rf=0.44, svm=0.48, logistic=0.48, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.47, ridge=0.47
+              0.9n | time: 98.090(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.34, lasso=0.48, ridge=0.48
+              Test:   rf=0.41, svm=0.41, logistic=0.43, lasso=0.57, ridge=0.57
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.45, ridge=0.48
+s=26: 
+              0.5n | time: 31.240(sec) |
+              Train:  rf=0.00, svm=0.18, logistic=0.29, lasso=0.29, ridge=0.29
+              Test:   rf=0.47, svm=0.51, logistic=0.50, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.45, ridge=0.45
+              0.9n | time: 84.870(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.37, lasso=0.39, ridge=0.49
+              Test:   rf=0.40, svm=0.41, logistic=0.41, lasso=0.48, ridge=0.48
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.46, ridge=0.49
+s=27: 
+              0.5n | time: 31.860(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.33, lasso=0.41, ridge=0.39
+              Test:   rf=0.47, svm=0.45, logistic=0.45, lasso=0.49, ridge=0.51
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.43, ridge=0.45
+              0.9n | time: 85.440(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.36, lasso=0.37, ridge=0.36
+              Test:   rf=0.44, svm=0.46, logistic=0.49, lasso=0.56, ridge=0.50
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.44, ridge=0.46
+s=28: 
+              0.5n | time: 31.900(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.35, ridge=0.35
+              Test:   rf=0.44, svm=0.48, logistic=0.49, lasso=0.52, ridge=0.49
+              Min CV: rf=0.00, svm=0.47, logistic=0.00, lasso=0.41, ridge=0.46
+              0.9n | time: 85.220(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.38, lasso=0.42, ridge=0.38
+              Test:   rf=0.37, svm=0.42, logistic=0.47, lasso=0.46, ridge=0.48
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.47, ridge=0.47
+s=29: 
+              0.5n | time: 31.710(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.33, lasso=0.34, ridge=0.36
+              Test:   rf=0.44, svm=0.41, logistic=0.46, lasso=0.47, ridge=0.51
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.51, ridge=0.51
+              0.9n | time: 86.530(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.37, lasso=0.37, ridge=0.48
+              Test:   rf=0.44, svm=0.45, logistic=0.47, lasso=0.45, ridge=0.53
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.46, ridge=0.48
+s=30: 
+              0.5n | time: 31.430(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.33, lasso=0.33, ridge=0.47
+              Test:   rf=0.48, svm=0.48, logistic=0.50, lasso=0.50, ridge=0.51
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.47, ridge=0.47
+              0.9n | time: 84.070(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.35, ridge=0.35
+              Test:   rf=0.40, svm=0.41, logistic=0.45, lasso=0.45, ridge=0.46
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.47, ridge=0.48
+s=31: 
+              0.5n | time: 31.540(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.29, lasso=0.42, ridge=0.30
+              Test:   rf=0.45, svm=0.42, logistic=0.44, lasso=0.48, ridge=0.44
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.45, ridge=0.43
+              0.9n | time: 89.860(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.35, lasso=0.35, ridge=0.38
+              Test:   rf=0.37, svm=0.41, logistic=0.50, lasso=0.51, ridge=0.53
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.46, ridge=0.47
+s=32: 
+              0.5n | time: 31.530(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.29, lasso=0.32, ridge=0.30
+              Test:   rf=0.45, svm=0.43, logistic=0.49, lasso=0.52, ridge=0.49
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.46, ridge=0.48
+              0.9n | time: 87.280(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.36, lasso=0.39, ridge=0.35
+              Test:   rf=0.46, svm=0.48, logistic=0.52, lasso=0.48, ridge=0.53
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.47
+s=33: 
+              0.5n | time: 32.240(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.30, lasso=0.30, ridge=0.30
+              Test:   rf=0.48, svm=0.45, logistic=0.47, lasso=0.47, ridge=0.48
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.46, ridge=0.48
+              0.9n | time: 86.840(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.35, ridge=0.41
+              Test:   rf=0.45, svm=0.39, logistic=0.48, lasso=0.49, ridge=0.50
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.45, ridge=0.48
+s=34: 
+              0.5n | time: 31.170(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.30, lasso=0.31, ridge=0.35
+              Test:   rf=0.45, svm=0.43, logistic=0.48, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.45, ridge=0.43
+              0.9n | time: 84.660(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.41, ridge=0.35
+              Test:   rf=0.41, svm=0.42, logistic=0.48, lasso=0.43, ridge=0.49
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.47, ridge=0.45
+s=35: 
+              0.5n | time: 32.400(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.28, lasso=0.37, ridge=0.29
+              Test:   rf=0.43, svm=0.40, logistic=0.49, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.46, ridge=0.44
+              0.9n | time: 83.680(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.35, ridge=0.35
+              Test:   rf=0.45, svm=0.38, logistic=0.43, lasso=0.42, ridge=0.44
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.47, ridge=0.46
+s=36: 
+              0.5n | time: 31.960(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.32, ridge=0.31
+              Test:   rf=0.44, svm=0.45, logistic=0.50, lasso=0.48, ridge=0.48
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.45, ridge=0.46
+              0.9n | time: 98.410(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.34, lasso=0.49, ridge=0.34
+              Test:   rf=0.31, svm=0.36, logistic=0.49, lasso=0.50, ridge=0.48
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.46
+s=37: 
+              0.5n | time: 31.610(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.33, ridge=0.48
+              Test:   rf=0.43, svm=0.42, logistic=0.46, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.47, ridge=0.48
+              0.9n | time: 84.940(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.35, ridge=0.35
+              Test:   rf=0.47, svm=0.42, logistic=0.47, lasso=0.47, ridge=0.49
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.48, ridge=0.48
+s=38: 
+              0.5n | time: 31.450(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.28, lasso=0.28, ridge=0.27
+              Test:   rf=0.44, svm=0.41, logistic=0.46, lasso=0.46, ridge=0.47
+              Min CV: rf=0.00, svm=0.44, logistic=0.00, lasso=0.45, ridge=0.44
+              0.9n | time: 84.000(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.36, ridge=0.36
+              Test:   rf=0.45, svm=0.46, logistic=0.47, lasso=0.46, ridge=0.47
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.48
+s=39: 
+              0.5n | time: 30.750(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.32, lasso=0.37, ridge=0.35
+              Test:   rf=0.44, svm=0.45, logistic=0.47, lasso=0.48, ridge=0.47
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.45, ridge=0.47
+              0.9n | time: 84.270(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.35, lasso=0.40, ridge=0.48
+              Test:   rf=0.48, svm=0.36, logistic=0.46, lasso=0.46, ridge=0.52
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.46, ridge=0.48
+s=40: 
+              0.5n | time: 30.850(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.30, lasso=0.37, ridge=0.47
+              Test:   rf=0.47, svm=0.43, logistic=0.47, lasso=0.51, ridge=0.50
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.47, ridge=0.47
+              0.9n | time: 84.960(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.36, ridge=0.35
+              Test:   rf=0.39, svm=0.35, logistic=0.45, lasso=0.45, ridge=0.45
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.46, ridge=0.46
+s=41: 
+              0.5n | time: 30.930(sec) |
+              Train:  rf=0.00, svm=0.16, logistic=0.30, lasso=0.33, ridge=0.30
+              Test:   rf=0.46, svm=0.51, logistic=0.48, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.41, ridge=0.44
+              0.9n | time: 85.730(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.44, ridge=0.35
+              Test:   rf=0.43, svm=0.34, logistic=0.51, lasso=0.52, ridge=0.49
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.45, ridge=0.46
+s=42: 
+              0.5n | time: 31.020(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.48, ridge=0.46
+              Test:   rf=0.44, svm=0.44, logistic=0.47, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.49, ridge=0.48
+              0.9n | time: 87.170(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.34, lasso=0.35, ridge=0.36
+              Test:   rf=0.42, svm=0.37, logistic=0.50, lasso=0.51, ridge=0.60
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.45
+s=43: 
+              0.5n | time: 32.990(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.30, lasso=0.32, ridge=0.35
+              Test:   rf=0.45, svm=0.44, logistic=0.50, lasso=0.52, ridge=0.51
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.47, ridge=0.45
+              0.9n | time: 92.500(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.37, lasso=0.36, ridge=0.37
+              Test:   rf=0.35, svm=0.31, logistic=0.49, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.49, ridge=0.47
+s=44: 
+              0.5n | time: 35.010(sec) |
+              Train:  rf=0.00, svm=0.20, logistic=0.29, lasso=0.30, ridge=0.29
+              Test:   rf=0.42, svm=0.47, logistic=0.46, lasso=0.47, ridge=0.46
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.47, ridge=0.45
+              0.9n | time: 93.570(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.44, ridge=0.34
+              Test:   rf=0.44, svm=0.43, logistic=0.51, lasso=0.49, ridge=0.51
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.46, ridge=0.46
+s=45: 
+              0.5n | time: 30.900(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.34, lasso=0.33, ridge=0.48
+              Test:   rf=0.45, svm=0.45, logistic=0.48, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.48, ridge=0.48
+              0.9n | time: 84.960(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.42, ridge=0.35
+              Test:   rf=0.46, svm=0.36, logistic=0.55, lasso=0.55, ridge=0.59
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.45, ridge=0.46
+s=46: 
+              0.5n | time: 31.570(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.29, lasso=0.29, ridge=0.31
+              Test:   rf=0.45, svm=0.43, logistic=0.47, lasso=0.47, ridge=0.47
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.46, ridge=0.48
+              0.9n | time: 85.030(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.37, lasso=0.41, ridge=0.37
+              Test:   rf=0.39, svm=0.43, logistic=0.44, lasso=0.40, ridge=0.47
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.46, ridge=0.47
+s=47: 
+              0.5n | time: 33.000(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.33, lasso=0.40, ridge=0.46
+              Test:   rf=0.45, svm=0.41, logistic=0.49, lasso=0.47, ridge=0.51
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.46
+              0.9n | time: 86.410(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.35, lasso=0.40, ridge=0.37
+              Test:   rf=0.50, svm=0.39, logistic=0.51, lasso=0.46, ridge=0.51
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.46, ridge=0.46
+s=48: 
+              0.5n | time: 31.930(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.27, lasso=0.41, ridge=0.32
+              Test:   rf=0.46, svm=0.45, logistic=0.49, lasso=0.51, ridge=0.51
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.44, ridge=0.44
+              0.9n | time: 99.460(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.34, lasso=0.48, ridge=0.34
+              Test:   rf=0.43, svm=0.43, logistic=0.53, lasso=0.57, ridge=0.55
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.45, ridge=0.43
+s=49: 
+              0.5n | time: 31.530(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.29, lasso=0.30, ridge=0.30
+              Test:   rf=0.46, svm=0.44, logistic=0.46, lasso=0.47, ridge=0.47
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.47, ridge=0.45
+              0.9n | time: 91.300(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.34, lasso=0.34, ridge=0.39
+              Test:   rf=0.50, svm=0.41, logistic=0.43, lasso=0.47, ridge=0.46
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.47, ridge=0.48
+s=50: 
+              0.5n | time: 32.990(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.32, ridge=0.32
+              Test:   rf=0.48, svm=0.48, logistic=0.46, lasso=0.46, ridge=0.46
+              Min CV: rf=0.00, svm=0.44, logistic=0.00, lasso=0.47, ridge=0.46
+              0.9n | time: 96.790(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.37, lasso=0.49, ridge=0.37
+              Test:   rf=0.39, svm=0.38, logistic=0.41, lasso=0.45, ridge=0.42
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.48, ridge=0.47
+s=51: 
+              0.5n | time: 31.760(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.30, lasso=0.43, ridge=0.32
+              Test:   rf=0.45, svm=0.42, logistic=0.45, lasso=0.55, ridge=0.50
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.43, ridge=0.43
+              0.9n | time: 87.600(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.35, ridge=0.35
+              Test:   rf=0.37, svm=0.37, logistic=0.53, lasso=0.54, ridge=0.52
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.45, ridge=0.45
+s=52: 
+              0.5n | time: 31.230(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.33, lasso=0.48, ridge=0.48
+              Test:   rf=0.44, svm=0.44, logistic=0.52, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.49, ridge=0.48
+              0.9n | time: 85.530(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.37, lasso=0.42, ridge=0.37
+              Test:   rf=0.37, svm=0.32, logistic=0.44, lasso=0.39, ridge=0.46
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.47
+s=53: 
+              0.5n | time: 32.470(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.29, lasso=0.46, ridge=0.46
+              Test:   rf=0.45, svm=0.45, logistic=0.48, lasso=0.51, ridge=0.51
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.47, ridge=0.46
+              0.9n | time: 87.000(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.38, ridge=0.35
+              Test:   rf=0.38, svm=0.38, logistic=0.48, lasso=0.57, ridge=0.49
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.46, ridge=0.48
+s=54: 
+              0.5n | time: 31.780(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.37, ridge=0.48
+              Test:   rf=0.41, svm=0.44, logistic=0.48, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.47, ridge=0.48
+              0.9n | time: 85.370(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.37, lasso=0.42, ridge=0.36
+              Test:   rf=0.26, svm=0.36, logistic=0.43, lasso=0.43, ridge=0.42
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.44, ridge=0.46
+s=55: 
+              0.5n | time: 31.160(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.33, lasso=0.33, ridge=0.37
+              Test:   rf=0.43, svm=0.41, logistic=0.44, lasso=0.44, ridge=0.45
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.49, ridge=0.48
+              0.9n | time: 90.560(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.34, lasso=0.38, ridge=0.33
+              Test:   rf=0.41, svm=0.43, logistic=0.53, lasso=0.52, ridge=0.56
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.44, ridge=0.45
+s=56: 
+              0.5n | time: 31.030(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.33, lasso=0.44, ridge=0.32
+              Test:   rf=0.45, svm=0.43, logistic=0.49, lasso=0.49, ridge=0.48
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.44, ridge=0.45
+              0.9n | time: 83.350(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.36, ridge=0.35
+              Test:   rf=0.35, svm=0.35, logistic=0.45, lasso=0.45, ridge=0.46
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.47, ridge=0.44
+s=57: 
+              0.5n | time: 30.860(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.29, lasso=0.28, ridge=0.30
+              Test:   rf=0.43, svm=0.46, logistic=0.48, lasso=0.50, ridge=0.50
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.40, ridge=0.40
+              0.9n | time: 84.230(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.41, ridge=0.35
+              Test:   rf=0.44, svm=0.39, logistic=0.40, lasso=0.40, ridge=0.39
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.47, ridge=0.47
+s=58: 
+              0.5n | time: 31.220(sec) |
+              Train:  rf=0.00, svm=0.19, logistic=0.30, lasso=0.35, ridge=0.35
+              Test:   rf=0.46, svm=0.46, logistic=0.48, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.49, logistic=0.00, lasso=0.46, ridge=0.49
+              0.9n | time: 97.090(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.36, lasso=0.49, ridge=0.35
+              Test:   rf=0.45, svm=0.34, logistic=0.47, lasso=0.50, ridge=0.48
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.46
+s=59: 
+              0.5n | time: 31.680(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.44, ridge=0.34
+              Test:   rf=0.45, svm=0.44, logistic=0.50, lasso=0.51, ridge=0.50
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.47, ridge=0.46
+              0.9n | time: 85.730(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.34, lasso=0.34, ridge=0.35
+              Test:   rf=0.42, svm=0.45, logistic=0.52, lasso=0.51, ridge=0.52
+              Min CV: rf=0.00, svm=0.36, logistic=0.00, lasso=0.45, ridge=0.45
+s=60: 
+              0.5n | time: 31.480(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.35, ridge=0.38
+              Test:   rf=0.44, svm=0.42, logistic=0.47, lasso=0.49, ridge=0.50
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.44, ridge=0.48
+              0.9n | time: 84.330(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.43, ridge=0.36
+              Test:   rf=0.31, svm=0.31, logistic=0.46, lasso=0.37, ridge=0.45
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.49, ridge=0.46
+s=61: 
+              0.5n | time: 30.580(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.37, ridge=0.35
+              Test:   rf=0.43, svm=0.43, logistic=0.48, lasso=0.48, ridge=0.50
+              Min CV: rf=0.00, svm=0.47, logistic=0.00, lasso=0.48, ridge=0.48
+              0.9n | time: 84.770(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.36, ridge=0.36
+              Test:   rf=0.37, svm=0.40, logistic=0.46, lasso=0.46, ridge=0.46
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.47
+s=62: 
+              0.5n | time: 33.760(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.32, lasso=0.47, ridge=0.34
+              Test:   rf=0.43, svm=0.40, logistic=0.47, lasso=0.52, ridge=0.50
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.47, ridge=0.49
+              0.9n | time: 88.140(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.37, lasso=0.35, ridge=0.37
+              Test:   rf=0.42, svm=0.44, logistic=0.52, lasso=0.49, ridge=0.51
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.47
+s=63: 
+              0.5n | time: 30.610(sec) |
+              Train:  rf=0.00, svm=0.19, logistic=0.31, lasso=0.31, ridge=0.34
+              Test:   rf=0.45, svm=0.45, logistic=0.45, lasso=0.45, ridge=0.47
+              Min CV: rf=0.00, svm=0.45, logistic=0.00, lasso=0.46, ridge=0.49
+              0.9n | time: 98.420(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.49, ridge=0.35
+              Test:   rf=0.39, svm=0.36, logistic=0.46, lasso=0.50, ridge=0.49
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.45, ridge=0.47
+s=64: 
+              0.5n | time: 31.740(sec) |
+              Train:  rf=0.00, svm=0.19, logistic=0.30, lasso=0.31, ridge=0.32
+              Test:   rf=0.45, svm=0.49, logistic=0.48, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.44, logistic=0.00, lasso=0.46, ridge=0.47
+              0.9n | time: 87.140(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.34, lasso=0.36, ridge=0.35
+              Test:   rf=0.45, svm=0.42, logistic=0.44, lasso=0.44, ridge=0.46
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.47, ridge=0.48
+s=65: 
+              0.5n | time: 31.110(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.32, ridge=0.33
+              Test:   rf=0.48, svm=0.45, logistic=0.48, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.44, logistic=0.00, lasso=0.45, ridge=0.46
+              0.9n | time: 96.900(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.48, ridge=0.35
+              Test:   rf=0.46, svm=0.46, logistic=0.51, lasso=0.52, ridge=0.46
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.45, ridge=0.46
+s=66: 
+              0.5n | time: 31.160(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.32, lasso=0.33, ridge=0.33
+              Test:   rf=0.44, svm=0.42, logistic=0.48, lasso=0.50, ridge=0.48
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.46, ridge=0.47
+              0.9n | time: 95.940(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.49, ridge=0.35
+              Test:   rf=0.39, svm=0.30, logistic=0.53, lasso=0.45, ridge=0.54
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.46
+s=67: 
+              0.5n | time: 31.230(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.33, lasso=0.33, ridge=0.33
+              Test:   rf=0.44, svm=0.43, logistic=0.46, lasso=0.46, ridge=0.47
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.48, ridge=0.48
+              0.9n | time: 85.350(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.38, lasso=0.42, ridge=0.48
+              Test:   rf=0.46, svm=0.42, logistic=0.43, lasso=0.43, ridge=0.52
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.48, ridge=0.48
+s=68: 
+              0.5n | time: 34.370(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.38, ridge=0.32
+              Test:   rf=0.44, svm=0.44, logistic=0.49, lasso=0.46, ridge=0.49
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.45, ridge=0.47
+              0.9n | time: 91.940(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.37, lasso=0.46, ridge=0.38
+              Test:   rf=0.31, svm=0.40, logistic=0.43, lasso=0.59, ridge=0.52
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.47, ridge=0.47
+s=69: 
+              0.5n | time: 33.110(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.34, lasso=0.33, ridge=0.34
+              Test:   rf=0.47, svm=0.44, logistic=0.49, lasso=0.49, ridge=0.48
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.49, ridge=0.51
+              0.9n | time: 85.490(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.37, lasso=0.40, ridge=0.36
+              Test:   rf=0.39, svm=0.31, logistic=0.48, lasso=0.52, ridge=0.47
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.47, ridge=0.47
+s=70: 
+              0.5n | time: 32.540(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.28, lasso=0.38, ridge=0.35
+              Test:   rf=0.43, svm=0.41, logistic=0.46, lasso=0.47, ridge=0.49
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.41, ridge=0.47
+              0.9n | time: 85.430(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.41, ridge=0.36
+              Test:   rf=0.39, svm=0.31, logistic=0.44, lasso=0.44, ridge=0.46
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.47
+s=71: 
+              0.5n | time: 30.920(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.45, ridge=0.32
+              Test:   rf=0.44, svm=0.41, logistic=0.48, lasso=0.46, ridge=0.49
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.46, ridge=0.48
+              0.9n | time: 84.390(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.40, ridge=0.36
+              Test:   rf=0.47, svm=0.45, logistic=0.47, lasso=0.54, ridge=0.51
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.45, ridge=0.47
+s=72: 
+              0.5n | time: 31.110(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.31, lasso=0.32, ridge=0.33
+              Test:   rf=0.45, svm=0.44, logistic=0.48, lasso=0.48, ridge=0.48
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.46, ridge=0.44
+              0.9n | time: 85.060(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.34, lasso=0.40, ridge=0.35
+              Test:   rf=0.46, svm=0.51, logistic=0.55, lasso=0.51, ridge=0.54
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.45, ridge=0.46
+s=73: 
+              0.5n | time: 31.550(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.29, lasso=0.34, ridge=0.32
+              Test:   rf=0.42, svm=0.44, logistic=0.48, lasso=0.46, ridge=0.49
+              Min CV: rf=0.00, svm=0.44, logistic=0.00, lasso=0.45, ridge=0.44
+              0.9n | time: 99.980(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.49, ridge=0.43
+              Test:   rf=0.39, svm=0.32, logistic=0.46, lasso=0.51, ridge=0.52
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.47, ridge=0.47
+s=74: 
+              0.5n | time: 30.970(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.31, lasso=0.31, ridge=0.36
+              Test:   rf=0.45, svm=0.46, logistic=0.45, lasso=0.46, ridge=0.48
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.48, ridge=0.49
+              0.9n | time: 86.160(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.35, lasso=0.40, ridge=0.36
+              Test:   rf=0.42, svm=0.38, logistic=0.44, lasso=0.44, ridge=0.42
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.46, ridge=0.46
+s=75: 
+              0.5n | time: 30.700(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.30, lasso=0.40, ridge=0.31
+              Test:   rf=0.44, svm=0.40, logistic=0.48, lasso=0.49, ridge=0.47
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.46
+              0.9n | time: 84.780(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.38, ridge=0.36
+              Test:   rf=0.43, svm=0.34, logistic=0.48, lasso=0.49, ridge=0.44
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.45, ridge=0.47
+s=76: 
+              0.5n | time: 30.810(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.31, ridge=0.35
+              Test:   rf=0.44, svm=0.43, logistic=0.47, lasso=0.47, ridge=0.49
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.45, ridge=0.49
+              0.9n | time: 85.000(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.37, ridge=0.36
+              Test:   rf=0.46, svm=0.40, logistic=0.38, lasso=0.47, ridge=0.42
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.47, ridge=0.47
+s=77: 
+              0.5n | time: 33.690(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.44, ridge=0.36
+              Test:   rf=0.47, svm=0.44, logistic=0.47, lasso=0.50, ridge=0.51
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.45, ridge=0.44
+              0.9n | time: 97.840(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.34, lasso=0.50, ridge=0.34
+              Test:   rf=0.46, svm=0.40, logistic=0.54, lasso=0.38, ridge=0.55
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.44, ridge=0.45
+s=78: 
+              0.5n | time: 31.390(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.36, ridge=0.47
+              Test:   rf=0.47, svm=0.45, logistic=0.50, lasso=0.51, ridge=0.51
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.46, ridge=0.47
+              0.9n | time: 86.320(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.40, ridge=0.35
+              Test:   rf=0.44, svm=0.38, logistic=0.48, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.44, ridge=0.46
+s=79: 
+              0.5n | time: 30.620(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.29, lasso=0.34, ridge=0.39
+              Test:   rf=0.44, svm=0.43, logistic=0.46, lasso=0.47, ridge=0.47
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.47, ridge=0.47
+              0.9n | time: 86.830(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.37, lasso=0.45, ridge=0.39
+              Test:   rf=0.44, svm=0.46, logistic=0.49, lasso=0.57, ridge=0.55
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.45, ridge=0.47
+s=80: 
+              0.5n | time: 32.130(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.33, ridge=0.48
+              Test:   rf=0.43, svm=0.40, logistic=0.46, lasso=0.46, ridge=0.49
+              Min CV: rf=0.00, svm=0.45, logistic=0.00, lasso=0.48, ridge=0.48
+              0.9n | time: 84.760(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.36, lasso=0.39, ridge=0.35
+              Test:   rf=0.38, svm=0.44, logistic=0.50, lasso=0.49, ridge=0.48
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.46, ridge=0.46
+s=81: 
+              0.5n | time: 31.200(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.33, lasso=0.46, ridge=0.46
+              Test:   rf=0.44, svm=0.43, logistic=0.50, lasso=0.51, ridge=0.51
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.47, ridge=0.46
+              0.9n | time: 87.270(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.37, lasso=0.42, ridge=0.37
+              Test:   rf=0.45, svm=0.46, logistic=0.51, lasso=0.49, ridge=0.45
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.47
+s=82: 
+              0.5n | time: 33.780(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.33, ridge=0.30
+              Test:   rf=0.41, svm=0.41, logistic=0.50, lasso=0.51, ridge=0.50
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.46, ridge=0.46
+              0.9n | time: 90.970(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.40, ridge=0.39
+              Test:   rf=0.42, svm=0.41, logistic=0.51, lasso=0.50, ridge=0.53
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.48, ridge=0.47
+s=83: 
+              0.5n | time: 30.750(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.47, ridge=0.47
+              Test:   rf=0.47, svm=0.43, logistic=0.49, lasso=0.51, ridge=0.51
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.47, ridge=0.47
+              0.9n | time: 84.080(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.35, lasso=0.35, ridge=0.35
+              Test:   rf=0.41, svm=0.42, logistic=0.52, lasso=0.50, ridge=0.47
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.47
+s=84: 
+              0.5n | time: 31.650(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.32, lasso=0.32, ridge=0.31
+              Test:   rf=0.42, svm=0.42, logistic=0.49, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.47, logistic=0.00, lasso=0.47, ridge=0.47
+              0.9n | time: 83.970(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.35, lasso=0.39, ridge=0.36
+              Test:   rf=0.34, svm=0.32, logistic=0.53, lasso=0.50, ridge=0.53
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.46
+s=85: 
+              0.5n | time: 32.940(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.29, lasso=0.29, ridge=0.31
+              Test:   rf=0.47, svm=0.41, logistic=0.44, lasso=0.48, ridge=0.46
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.46
+              0.9n | time: 83.970(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.36, lasso=0.36, ridge=0.36
+              Test:   rf=0.42, svm=0.39, logistic=0.52, lasso=0.49, ridge=0.46
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.46, ridge=0.47
+s=86: 
+              0.5n | time: 30.750(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.31, lasso=0.31, ridge=0.32
+              Test:   rf=0.48, svm=0.45, logistic=0.43, lasso=0.43, ridge=0.43
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.45, ridge=0.43
+              0.9n | time: 85.110(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.35, ridge=0.36
+              Test:   rf=0.42, svm=0.32, logistic=0.42, lasso=0.45, ridge=0.44
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.47, ridge=0.47
+s=87: 
+              0.5n | time: 30.780(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.29, lasso=0.30, ridge=0.31
+              Test:   rf=0.47, svm=0.40, logistic=0.47, lasso=0.47, ridge=0.47
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.44, ridge=0.45
+              0.9n | time: 84.950(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.36, ridge=0.35
+              Test:   rf=0.49, svm=0.44, logistic=0.57, lasso=0.55, ridge=0.52
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.46, ridge=0.46
+s=88: 
+              0.5n | time: 31.030(sec) |
+              Train:  rf=0.00, svm=0.19, logistic=0.31, lasso=0.33, ridge=0.35
+              Test:   rf=0.50, svm=0.51, logistic=0.49, lasso=0.50, ridge=0.50
+              Min CV: rf=0.00, svm=0.42, logistic=0.00, lasso=0.45, ridge=0.44
+              0.9n | time: 85.290(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.35, lasso=0.35, ridge=0.34
+              Test:   rf=0.36, svm=0.35, logistic=0.49, lasso=0.52, ridge=0.51
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.47, ridge=0.47
+s=89: 
+              0.5n | time: 31.730(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.31, ridge=0.48
+              Test:   rf=0.45, svm=0.43, logistic=0.47, lasso=0.48, ridge=0.50
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.49, ridge=0.48
+              0.9n | time: 84.830(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.42, ridge=0.35
+              Test:   rf=0.38, svm=0.39, logistic=0.45, lasso=0.49, ridge=0.45
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.46, ridge=0.48
+s=90: 
+              0.5n | time: 31.290(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.41, ridge=0.31
+              Test:   rf=0.46, svm=0.42, logistic=0.46, lasso=0.49, ridge=0.46
+              Min CV: rf=0.00, svm=0.44, logistic=0.00, lasso=0.47, ridge=0.47
+              0.9n | time: 84.080(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.37, lasso=0.42, ridge=0.36
+              Test:   rf=0.40, svm=0.33, logistic=0.45, lasso=0.42, ridge=0.47
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.47, ridge=0.48
+s=91: 
+              0.5n | time: 30.920(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.30, lasso=0.29, ridge=0.30
+              Test:   rf=0.48, svm=0.45, logistic=0.49, lasso=0.52, ridge=0.51
+              Min CV: rf=0.00, svm=0.45, logistic=0.00, lasso=0.44, ridge=0.46
+              0.9n | time: 96.630(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.36, lasso=0.49, ridge=0.39
+              Test:   rf=0.42, svm=0.43, logistic=0.52, lasso=0.46, ridge=0.52
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.44, ridge=0.47
+s=92: 
+              0.5n | time: 30.580(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.32, lasso=0.34, ridge=0.32
+              Test:   rf=0.46, svm=0.45, logistic=0.48, lasso=0.48, ridge=0.48
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.44, ridge=0.46
+              0.9n | time: 89.360(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.36, ridge=0.36
+              Test:   rf=0.32, svm=0.32, logistic=0.44, lasso=0.44, ridge=0.43
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.45, ridge=0.46
+s=93: 
+              0.5n | time: 31.900(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.33, lasso=0.44, ridge=0.33
+              Test:   rf=0.47, svm=0.46, logistic=0.50, lasso=0.49, ridge=0.50
+              Min CV: rf=0.00, svm=0.43, logistic=0.00, lasso=0.45, ridge=0.47
+              0.9n | time: 84.860(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.43, ridge=0.35
+              Test:   rf=0.46, svm=0.45, logistic=0.56, lasso=0.57, ridge=0.58
+              Min CV: rf=0.00, svm=0.36, logistic=0.00, lasso=0.44, ridge=0.46
+s=94: 
+              0.5n | time: 31.890(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.31, lasso=0.30, ridge=0.31
+              Test:   rf=0.42, svm=0.41, logistic=0.43, lasso=0.43, ridge=0.44
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.46, ridge=0.48
+              0.9n | time: 84.520(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.36, lasso=0.42, ridge=0.36
+              Test:   rf=0.37, svm=0.35, logistic=0.43, lasso=0.40, ridge=0.39
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.47, ridge=0.48
+s=95: 
+              0.5n | time: 30.950(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.30, lasso=0.30, ridge=0.36
+              Test:   rf=0.43, svm=0.47, logistic=0.49, lasso=0.47, ridge=0.49
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.44, ridge=0.44
+              0.9n | time: 97.580(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.38, lasso=0.49, ridge=0.49
+              Test:   rf=0.37, svm=0.33, logistic=0.42, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.41, logistic=0.00, lasso=0.48, ridge=0.49
+s=96: 
+              0.5n | time: 39.700(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.34, lasso=0.49, ridge=0.38
+              Test:   rf=0.45, svm=0.45, logistic=0.48, lasso=0.48, ridge=0.45
+              Min CV: rf=0.00, svm=0.48, logistic=0.00, lasso=0.47, ridge=0.48
+              0.9n | time: 84.820(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.37, lasso=0.35, ridge=0.34
+              Test:   rf=0.44, svm=0.48, logistic=0.42, lasso=0.48, ridge=0.46
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.46, ridge=0.48
+s=97: 
+              0.5n | time: 30.930(sec) |
+              Train:  rf=0.00, svm=0.02, logistic=0.29, lasso=0.29, ridge=0.30
+              Test:   rf=0.44, svm=0.42, logistic=0.50, lasso=0.50, ridge=0.49
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.44, ridge=0.43
+              0.9n | time: 84.550(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.37, lasso=0.36, ridge=0.35
+              Test:   rf=0.41, svm=0.39, logistic=0.52, lasso=0.52, ridge=0.53
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.46, ridge=0.47
+s=98: 
+              0.5n | time: 30.410(sec) |
+              Train:  rf=0.00, svm=0.04, logistic=0.31, lasso=0.41, ridge=0.33
+              Test:   rf=0.43, svm=0.42, logistic=0.48, lasso=0.45, ridge=0.47
+              Min CV: rf=0.00, svm=0.45, logistic=0.00, lasso=0.47, ridge=0.47
+              0.9n | time: 85.950(sec) |
+              Train:  rf=0.00, svm=0.03, logistic=0.37, lasso=0.39, ridge=0.36
+              Test:   rf=0.39, svm=0.38, logistic=0.42, lasso=0.50, ridge=0.46
+              Min CV: rf=0.00, svm=0.40, logistic=0.00, lasso=0.45, ridge=0.48
+s=99: 
+              0.5n | time: 31.140(sec) |
+              Train:  rf=0.00, svm=0.16, logistic=0.28, lasso=0.40, ridge=0.33
+              Test:   rf=0.49, svm=0.48, logistic=0.48, lasso=0.48, ridge=0.49
+              Min CV: rf=0.00, svm=0.37, logistic=0.00, lasso=0.41, ridge=0.44
+              0.9n | time: 86.200(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.36, lasso=0.45, ridge=0.36
+              Test:   rf=0.46, svm=0.39, logistic=0.48, lasso=0.51, ridge=0.50
+              Min CV: rf=0.00, svm=0.38, logistic=0.00, lasso=0.46, ridge=0.45
+s=100: 
+              0.5n | time: 30.780(sec) |
+              Train:  rf=0.00, svm=0.00, logistic=0.34, lasso=0.35, ridge=0.35
+              Test:   rf=0.45, svm=0.44, logistic=0.46, lasso=0.49, ridge=0.49
+              Min CV: rf=0.00, svm=0.46, logistic=0.00, lasso=0.50, ridge=0.49
+              0.9n | time: 84.960(sec) |
+              Train:  rf=0.00, svm=0.01, logistic=0.35, lasso=0.37, ridge=0.35
+              Test:   rf=0.35, svm=0.36, logistic=0.46, lasso=0.50, ridge=0.47
+              Min CV: rf=0.00, svm=0.39, logistic=0.00, lasso=0.45, ridge=0.47

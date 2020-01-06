@@ -1,0 +1,9 @@
+﻿model,train_size,fitting_time,test_error
+Lasso,0.5n,0.47,0.5
+Ridge,0.5n,0.41,0.5
+RF,0.5n,1.44,0.48
+SVM,0.5n,27.5,0.45
+Lasso,0.9n,0.78,0.49
+Ridge,0.9n,0.75,0.51
+RF,0.9n,3.59,0.39
+SVM,0.9n,78.18,0.4
